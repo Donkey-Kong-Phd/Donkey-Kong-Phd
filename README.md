@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hello everyone, you can call me DK. I'm new to programming, but I still wanted to get used to github and it's functions in order to share any projects that I've worked on with the community.
+
+Anyways, this'll be empty for some time, so make yourself comfy.
+
+
 <!--
 **Donkey-Kong-Phd/Donkey-Kong-Phd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
